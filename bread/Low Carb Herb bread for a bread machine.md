@@ -23,7 +23,7 @@
  
  
  
-**Directions:**
+* **Directions:**
 1. Start by adding butter and onions to sauté pan. Sauté on medium heat till slightly brown or to taste .
 1. While the onions are sautéing get you bread pan from the bread machine. Add the water, eggs, oat fiber, flaxseed, vital wheat gluten, salt, sweetener, honey, xanthan gum, salt, and spices to the bread pan. Leave a little of the flour in the middle exposed so you can make a hole for the yeast(protection).
 1. Once the onion and butter is done cooking and cooled(very import) add it to the side of the PAN. Then add yeast.
