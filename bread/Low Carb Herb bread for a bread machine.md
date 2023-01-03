@@ -31,6 +31,6 @@
 * Optional: Some might prefer the final cooking in a ceramic pan 400 degrees for 45minutes
 * Optional. Early in the mixing phase sometimes the sides get stuck with the mixture, I push it down into pan a little. **Careful of mixing blade!**
 
-![Github Logo](./herb-bread.jpg)
+![Github Logo](./pictures/herb-bread.jpg)
 
 http://https://github.com/jstarbeam/Keto-recipes
