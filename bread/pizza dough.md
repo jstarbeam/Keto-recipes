@@ -36,7 +36,7 @@ Makes one pizza crust standard 16-18 inches.
 **Tips:**
 - The exact amount of monkfruit is a personal preference. Not enough you will know it. 
 - Due to varaions of ingreedients it is sometimes best to cook the pizza dough 5-10 minutes before adding ingreedients. Just until it has a slight crust. This will allow for a more crisp bread in the middle.
-- Depending on if you cook the pizza dough before adding ingreedients and the overall thickness of the dough I generally recomed lower tempatures if thicker. example 325 at 35/40 minutes.
+- Depending on if you cook the pizza dough before adding ingreedients and the overall thickness of the dough I generally recomend lower tempatures if thicker. example 325 at 35/40 minutes.
 
 
 <h3>Possible toppings:**</h3>
